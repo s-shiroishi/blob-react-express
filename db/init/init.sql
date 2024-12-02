@@ -1,0 +1,12 @@
+-- テスト用のテーブルを作成
+-- CREATE TABLE IF NOT EXISTS test_table (
+--     id INT AUTO_INCREMENT PRIMARY KEY,
+--     name VARCHAR(255) NOT NULL,
+--     value INT NOT NULL
+-- );
+
+-- -- テスト用のデータを挿入
+-- INSERT INTO test_table (name, value) VALUES
+-- ('Test1', 100),
+-- ('Test2', 200),
+-- ('Test3', 300);
